@@ -1,7 +1,9 @@
 # API_CLINICA
 API_CLINICA
 
-Agenda de uma clinica medica feita em Django, Rest framework 
+Agenda de uma clinica medica feita em Django, Rest framework
+
+#### ⚠️atenção demonstração no final do tutorial!!!
 
 ## Preparando o ambiente
 Instale o python;
@@ -272,7 +274,7 @@ python manage.py runserver
 
 # Assista ao video de demostração
 
-## [🎬exemplo](google.com)
+## [🎬Demostração](https://drive.google.com/file/d/18XEOhgeHANen_N3c2ERzeX3hmRavaFJz/view)
 
 # congratulations 😎
 ![exemplo](https://media.tenor.com/JhQnqeXuaMoAAAAC/congrats-leonardo-dicaprio.gif)  👉🏼👉🏼👉🏼    ![e](https://media.tenor.com/MXnkudfpfSUAAAAM/yeah-woohoo.gif)
