@@ -3,7 +3,7 @@ API_CLINICA
 
 Agenda de uma clinica medica feita em Django, Rest framework
 
-#### ⚠️atenção demonstração no final do tutorial!!!
+#### ⚠️atenção demonstração do projeto no final do tutorial!!!
 
 ## Preparando o ambiente
 Instale o python;
