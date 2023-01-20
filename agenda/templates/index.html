@@ -1,0 +1,12 @@
+{% block %}
+
+
+<form action="" method="POST">
+    <div class="mb-3" >
+    {% csrf_token %}
+    {{ form.as_p }}
+   
+  <button type="submit" class="btn btn-success" >Criar</button>
+  </div>
+  </form>
+  {% endblock %}
